@@ -7,7 +7,7 @@ Prototype:
 <img width="1366" height="602" alt="image" src="https://github.com/user-attachments/assets/081ce029-7864-41d8-a204-96b163d1ff80" />
 
 Present:
-<img width="816" height="1576" alt="image" src="https://github.com/user-attachments/assets/b0c38f23-b9b8-4343-9df6-f4fae0778917" />
+<img width="258" height="559" alt="image" src="https://github.com/user-attachments/assets/b0c38f23-b9b8-4343-9df6-f4fae0778917" />
 
 Созданные Экраны:
 1. Экран Загрузки (Splash Screen): Отображается при запуске приложения и предназначен для инициализации данных и отображения логотипа.
