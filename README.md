@@ -7,4 +7,4 @@
 <img width="2880" height="376" alt="image" src="https://github.com/user-attachments/assets/a4800c5c-7825-4b94-8acf-0250cd80046a" />
 
 Скриншот первого приложения hello_flutter:
-<img width="1290" height="2796" alt="IMG_6229" src="https://github.com/user-attachments/assets/fe7b61f6-dada-48e6-80bf-fefdf822c755" />
+<img width="322.5" height="699" alt="IMG_6229" src="https://github.com/user-attachments/assets/fe7b61f6-dada-48e6-80bf-fefdf822c755" />
