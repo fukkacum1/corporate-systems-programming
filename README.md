@@ -5,6 +5,8 @@
 
 2.	Скриншот с изменёнными цветами и стилями текста:
 <img width="303" height="194" alt="Снимок экрана 2025-10-01 в 00 52 30" src="https://github.com/user-attachments/assets/f99f2d98-9c80-4f13-b61e-3ba750cd8fbc" />
+<img width="537" height="105" alt="Снимок экрана 2025-10-01 в 01 06 49" src="https://github.com/user-attachments/assets/8cee3222-3e3f-4060-9fcd-fcebf2a9b90d" />
+
 
 Использованные виджеты:
 
