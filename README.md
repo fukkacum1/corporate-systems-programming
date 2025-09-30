@@ -12,5 +12,6 @@
 
 Операционная система: macOS
 
-Используемый терминал: VS Code Terminal
+Используемый терминал: VS Code Terminal, zsh
+
 
