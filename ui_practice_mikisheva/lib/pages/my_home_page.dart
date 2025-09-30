@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+
 class MyHomePage extends StatelessWidget {
   const MyHomePage({super.key});
   
@@ -18,16 +19,30 @@ class MyHomePage extends StatelessWidget {
             color: Colors.deepPurple,
             ),
           ),
-          Row(
-            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-            children: [
-                Icon(Icons.rocket, color: const Color.fromARGB(255, 158, 255, 247)),
-                SizedBox(width: 16),
-                Icon(Icons.favorite, color: const Color.fromARGB(255, 255, 178, 224))
-            ],
-          ),
+          Container(
+            width: 400,
+            height: 400,
+            decoration: const BoxDecoration(
+              image: DecorationImage(
+                image: AssetImage('assets/images/IMG_6719.jpeg'),
+                fit: BoxFit.cover,
+                ),
+              ),
+            ),
+            SizedBox(height: 20),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+              children: [
+                  Icon(Icons.rocket, color: const Color.fromARGB(255, 158, 255, 247)),
+                  SizedBox(width: 16),
+                  Icon(Icons.favorite, color: const Color.fromARGB(255, 255, 178, 224))
+              ],
+            ),
+          
           ElevatedButton(onPressed: () {}, 
-            child: Text("Тык", style: TextStyle(fontWeight: FontWeight.w600, color: const Color.fromARGB(49, 255, 0, 128)),)),
+            child: Text("Тык", style: TextStyle(
+              fontWeight: FontWeight.w600, 
+              color: const Color.fromARGB(49, 255, 0, 128)),)),
         ],
       ),
     );
