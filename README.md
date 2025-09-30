@@ -1,7 +1,8 @@
 Отчет по практической работе №3
 
 1.	Скриншот работающего приложения с текстом, кнопкой и контейнером:
-<img width="258" height="559" alt="IMG_6233" src="https://github.com/user-attachments/assets/8b778c29-374e-484e-9ad7-61b8125c9462" />
+<img width="258" height="559" alt="IMG_6234" src="https://github.com/user-attachments/assets/399775d4-b6a5-4d34-aa75-3290afdd4412" />
+
 
 2.	Скриншот с изменёнными цветами и стилями текста:
 <img width="303" height="194" alt="Снимок экрана 2025-10-01 в 00 52 30" src="https://github.com/user-attachments/assets/f99f2d98-9c80-4f13-b61e-3ba750cd8fbc" />
