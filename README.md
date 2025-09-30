@@ -8,7 +8,7 @@
 
 Скриншот первого приложения hello_flutter:
 
-<img width="322.5" height="699" alt="IMG_6229" src="https://github.com/user-attachments/assets/fe7b61f6-dada-48e6-80bf-fefdf822c755" />
+<img width="258" height="559" alt="IMG_6229" src="https://github.com/user-attachments/assets/fe7b61f6-dada-48e6-80bf-fefdf822c755" />
 
 Операционная система: macOS
 
